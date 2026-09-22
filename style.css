@@ -1,0 +1,19 @@
+body {
+    background-image: url('bg.jpg');
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    color:aqua;
+    font-size : 80px;
+    margin: 90px 0 30px 0;
+}
+p{
+    color:aquamarine;
+    font-size:20px;
+}
+#第二段{
+    color:blue;
+    font-size:25px;
+}
